@@ -2,6 +2,13 @@ body{
   background-color: #bbfadc;
 }
 
+.stage-container{
+  width:90%;
+  margin-left:5%;
+  margin-right:5%;
+  height:100%;
+}
+
 #stage{
   height:auto;
   width:25%;
