@@ -7,5 +7,6 @@ body{
   width:30%;
   background-color:white;
   text-align:center;
-  border-style: outset;
+  border-style: 4px outset black;
+  border-radius: 8px;
 } 
