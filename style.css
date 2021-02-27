@@ -2,6 +2,15 @@ body{
   background-color: #bbfadc;
 }
 
+.header{
+  text-align:center;
+  height:20%;
+}
+
+.header h1{
+  font-size:5vw;
+}
+
 .stage-container{
   width:90%;
   margin-left:5%;
