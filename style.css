@@ -24,10 +24,11 @@ body{
   width:25%;
   background-color:white;
   text-align:center;
-  border-radius:20px;
+  border-radius:15px;
   margin:3% 2.5%;
   padding:1%;
   display: inline-block;
+  transition: box-shadow .3s;
 } 
 
 #stage:hover {
