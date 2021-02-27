@@ -17,6 +17,7 @@ body{
   border-radius:20px;
   margin:3% 2.5%;
   padding:1%;
+  display: inline-block;
 } 
 
 #stage img{
