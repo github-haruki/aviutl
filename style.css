@@ -6,4 +6,6 @@ body{
   height:30%;
   width:30%;
   background-color:white;
+  text-align:center;
+  border-style: outset;
 } 
