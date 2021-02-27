@@ -24,3 +24,7 @@ body{
   height:auto;
   margin-top:;
 }
+
+#stage h1{
+  letter-spacing: -5px;
+}
