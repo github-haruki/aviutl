@@ -22,7 +22,7 @@ a {
 
 .content{
   background-color:#e8fff4;
-  width:35%;
+  width:45%;
   padding:5px;
   margin-left:5%;
   text-align:center;
@@ -33,8 +33,8 @@ a {
 }
 
 .content p{
-  font-size:0.9vw;
-  
+  font-size:1vw;
+  line-height:0.2;
 }
 
 .download{
