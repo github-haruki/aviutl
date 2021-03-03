@@ -23,5 +23,10 @@ a {
 .content{
   background-color:#e8fff4;
   width:35%;
+  padding:5px;
   margin-left:5%;
+}
+
+.content h1{
+  font-size:2vw;
 }
