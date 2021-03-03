@@ -31,3 +31,16 @@ a {
 .content h1{
   font-size:1.8vw;
 }
+
+.download buttion{
+  background-color: #4281f5;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.9vw;
+  margin: 2px;
+  cursor: pointer;
+}
