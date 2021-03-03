@@ -56,10 +56,18 @@ a {
   color:#4281f5;
 }
 
-.content{
+.video{
   background-color:#e8fff4;
   width:40%;
   height:40%;
   margin-left:5%;
+  text-align:center;
+}
+
+.links{
+  background-color:#e8fff4;
+  width:80%;
+  height:20%;
+  margin-left:10%;
   text-align:center;
 }
