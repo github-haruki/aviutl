@@ -78,3 +78,7 @@ a {
   text-align:center;
   display: inline-block;
 }
+
+.links h2{
+  font-size:1.6vw;
+}
