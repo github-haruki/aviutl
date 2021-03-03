@@ -3,6 +3,10 @@ body{
   font-family:Noto Sans JP;
 }
 
+a {
+    text-decoration: none !important;
+}
+
 .header{
   text-align:center;
   height:20%;
