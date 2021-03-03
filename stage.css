@@ -32,7 +32,7 @@ a {
   font-size:1.8vw;
 }
 
-.download button{
+.download{
   background-color:#4281f5;
   border: none;
   color: white;
@@ -46,7 +46,7 @@ a {
   transition-duration: 0.4s;
 }
 
-.download button:hover{
+.download:hover{
   background-color:white;
   color:#4281f5;
 }
