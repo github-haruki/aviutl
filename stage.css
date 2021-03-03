@@ -32,6 +32,11 @@ a {
   font-size:1.8vw;
 }
 
+.content p{
+  font-size:0.9vw;
+  
+}
+
 .download{
   background-color:#4281f5;
   border: none;
@@ -40,7 +45,7 @@ a {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 0.9vw;
+  font-size: 1.1vw;
   margin: 2px;
   cursor: pointer;
   transition-duration: 0.4s;
