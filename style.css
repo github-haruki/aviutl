@@ -44,3 +44,7 @@ body{
 #stage h1{
   line-height:0px;
 }
+
+a {
+    text-decoration: none !important;
+}
