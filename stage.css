@@ -71,10 +71,10 @@ a {
 
 .links{
   background-color:#e8fff4;
-  width:80vw;
-  height:20vh;
+  width:45VW;
+  height:40vh;
   margin-top:10VH;
-  margin-left:10%;
+  margin-left:5VW;
   text-align:center;
   display: inline-block;
 }
