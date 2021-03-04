@@ -12,8 +12,9 @@ body{
   color:#053480;
 }
 
-a {
-    text-decoration: none !important;
+a{
+  text-decoration: none !important;
+  color: inherit;
 }
 
 .main{
@@ -28,6 +29,7 @@ a {
   margin-left:5%;
   text-align:center;
   display: inline-block;
+  min-height:22.5vw;
 }
 
 .content h1{
@@ -38,6 +40,7 @@ a {
   font-size:1.1vw;
   line-height:1.4;
   padding:0% 2%;
+  text-align:initial;
 }
 
 .download{
@@ -62,8 +65,7 @@ a {
 .video{
   background-color:#e8fff4;
   width:40vw;
-  height:auto;
-  min-height:40vh;
+  height:22.5vw;
   margin-left:5%;
   text-align:center;
   display: inline-block;
