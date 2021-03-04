@@ -38,7 +38,7 @@ a{
 
 .content p{
   font-size:1.1vw;
-  line-height:1.4;
+  line-height:1.5;
   padding:0% 2%;
   text-align:initial;
 }
@@ -89,4 +89,5 @@ a{
   font-size:1.2vw;
   color:#4281f5;
   display:block;
+  margin-top:5px;
 }
