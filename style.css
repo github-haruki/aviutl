@@ -52,3 +52,13 @@ a {
 a {
     text-decoration: none !important;
 }
+
+.footer{
+  background-color:#074391;
+}
+
+.footer h3{
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+
+}
