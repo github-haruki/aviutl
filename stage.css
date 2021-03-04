@@ -43,6 +43,10 @@ a{
   text-align:initial;
 }
 
+.content a{
+  display:inline-block;
+}
+
 .download{
   background-color:#4281f5;
   border: none;
@@ -55,7 +59,6 @@ a{
   margin: 2px;
   cursor: pointer;
   transition-duration: 0.4s;
-  margin-left:10vw;
 }
 
 .download:hover{
