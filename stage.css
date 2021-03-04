@@ -28,7 +28,7 @@ a{
   padding:5px;
   margin-left:5%;
   text-align:center;
-  display: inline-block;
+  float: left;
   min-height:22.5vw;
 }
 
@@ -68,7 +68,7 @@ a{
   height:22.5vw;
   margin-left:5%;
   text-align:center;
-  display: inline-block;
+  float: left;
 }
 
 .links{
@@ -78,7 +78,7 @@ a{
   margin-top:10VH;
   margin-left:5VW;
   text-align:center;
-  display: inline-block;
+  float: left;
 }
 
 .links h2{
