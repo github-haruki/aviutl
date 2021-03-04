@@ -84,3 +84,9 @@ a{
 .links h2{
   font-size:1.6vw;
 }
+
+.links a{
+  font-size:1.2vw;
+  color:#4281f5;
+  display:block;
+}
